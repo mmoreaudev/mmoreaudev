@@ -1,6 +1,3 @@
----
-layout: default
----
 
 # 💫 About Me:
 Hi! My name is Matéo Moreau. I am a Web Designer, and I'm very passionate and dedicated to my work. With 3 years experience as a Web Designer, I have acquired the skills and knowledge necessary to make your project a success. I'm a young programming enthusiast currently in high school. I'm passionate about technology and especially programming. I started coding around 3 year ago and I made a few projects.<br><br>
