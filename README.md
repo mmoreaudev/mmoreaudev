@@ -11,6 +11,9 @@ Hi! My name is Matéo Moreau. I am a Web Designer, and I'm very passionate and d
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmoreaudev&layout=compact&theme=github_dark)
 
+## Support
+
+For support, email contact@mateomoreau.com or send me a message on instagram.
 ---
 
   ## 💰 You can help me by Donating
