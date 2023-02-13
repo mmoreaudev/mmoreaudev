@@ -12,7 +12,6 @@ Hi! My name is Matéo Moreau. I am a Web Designer, and I'm very passionate and d
 ![](https://github-readme-stats.vercel.app/api/pin/?username=mmoreaudev&repo=toreya&theme=github_dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mmoreaudev&icon=0&color=12)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/PayPal.me/mateomoreaw) 
