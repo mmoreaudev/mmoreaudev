@@ -14,9 +14,6 @@ Hi! My name is Matéo Moreau. I am a Web Designer, and I'm very passionate and d
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mmoreaudev&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=mmoreaudev&icon=0&color=12)](https://visitcount.itsvg.in)
 
