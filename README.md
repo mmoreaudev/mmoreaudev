@@ -13,7 +13,7 @@ Hi! My name is Matéo Moreau. I am a Web Designer, and I'm very passionate and d
 
 ## Support
 
-For support, email contact@mateomoreau.com or send me a message on instagram.
+For support, email contact@mateomoreau.com or send me a message on instagram (@mateo.stmn).
 
 ---
 ## 💰 You can help me by Donating
