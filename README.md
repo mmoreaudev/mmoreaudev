@@ -1,7 +1,7 @@
 
 # @mmoreaudev
 
-<img src="https://raw.githubusercontent.com/mmoreaudev/mmoreaudev/main/images/mmoreaudev_logo_banner.png">
+<img src="https://raw.githubusercontent.com/mmoreaudev/mmoreaudev/main/images/mmoreaudev_logo_ban.png">
 
 Hi! My name is Matéo Moreau. I am a Web Designer and am very passionate and dedicated to my work. With 3 years of experience as a Web Designer, I have acquired the skills and knowledge necessary to succeed in your project. I'm a young programming enthusiast currently in high school. I'm passionate about technology and especially programming. I started coding around 3 years ago and I did a few projects..<br><br>
 
