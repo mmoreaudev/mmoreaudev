@@ -14,10 +14,6 @@ Hi! My name is Matéo Moreau. I am a Web Designer and am very passionate and ded
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmoreaudev&layout=compact&theme=github_dark)
 
-
-# 💬 Discord
-![](https://lanyard.cnrad.dev/api/720638712098062356)
-
 ## Support
 
 For support, email contact@mateomoreau.com or send me a message on instagram (@mateo.stmn).
