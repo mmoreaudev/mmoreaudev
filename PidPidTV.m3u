@@ -60,4 +60,6 @@ https://lnc-nashville.tubi.video/playlist.m3u8
 #EXTINF:-1 group-title="FR",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="FR",NBA (VPN aux US ou Cloudflare WARP)
- https://lnc-nba-g.tubi.video/playlist.m3u8
+https://lnc-nba-g.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="FR",Canal + Sport
+http://iptv.journalsat.com:25461/274570964/journalsat/723
