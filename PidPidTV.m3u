@@ -59,3 +59,5 @@ https://lnc-mr-beast.tubi.video/playlist.m3u8
 https://lnc-nashville.tubi.video/playlist.m3u8
 #EXTINF:-1 group-title="FR",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="FR",NFL
+https://raw.githubusercontent.com/mmoreaudev/mmoreaudev/main/NFL.m3u8
