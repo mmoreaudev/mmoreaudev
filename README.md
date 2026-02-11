@@ -6,7 +6,7 @@
 <div align="center">
 
   <!-- BANNER -->
-  <img src="https://cdn2.mateomoreau.com/images/LogoBanner-Dark.png" alt="Mateo Moreau Banner" width="100%" />
+  <img src="https://cdn2.mateomoreau.com/images/LogoBanner-Dark.png" alt="Mateo Moreau Banner" width="70%" />
 
   <br/><br/>
 
