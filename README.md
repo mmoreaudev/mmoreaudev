@@ -43,7 +43,9 @@ I enjoy working on real-world infrastructure, securing environments, and buildin
 
 ## 📊 GitHub Stats  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmoreaudev&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mmoreaudev&layout=compact)
+![User infos](https://github-readme-stats-fast.vercel.app/api?username=mmoreaudev&show_icons=true&theme=dark)
+
 
 ---
 
