@@ -44,61 +44,53 @@ My objective is clear: <b>become a Security Engineer and design secure, scalable
 
 <h2>⚙️ Technical Expertise</h2>
 
+<div align="center">
 
+<h3>🔐 Systems & Infrastructure</h3>
+<ul>
+  <li>Linux / Windows Server</li>
+  <li>Apache / Nginx</li>
+  <li>Network Services</li>
+  <li>Infrastructure Management</li>
+  <li>Security Hardening</li>
+</ul>
 
-  <table width="100%">
-    <tr>
-      <td width="50%" valign="top">
+</div>
 
-        <h3>🔐 Systems & Infrastructure</h3>
-        <ul>
-          <li>Linux / Windows Server</li>
-          <li>Apache / Nginx</li>
-          <li>Network Services</li>
-          <li>Infrastructure Management</li>
-          <li>Security Hardening</li>
-        </ul>
+<div align="center">
 
-      </td>
+<h3>💻 Development</h3>
+<ul>
+  <li>JavaScript / PHP / Python</li>
+  <li>React / Vue / Angular</li>
+  <li>Node.js</li>
+  <li>React Native / Flutter</li>
+  <li>Electron</li>
+</ul>
 
-      <td width="50%" valign="top">
+</div>
 
-        <h3>💻 Development</h3>
-        <ul>
-          <li>JavaScript / PHP / Python</li>
-          <li>React / Vue / Angular</li>
-          <li>Node.js</li>
-          <li>React Native / Flutter</li>
-          <li>Electron</li>
-        </ul>
+<div align="center">
 
-      </td>
-    </tr>
+<h3>🗄️ Databases</h3>
+<ul>
+  <li>MySQL / MariaDB</li>
+  <li>MongoDB</li>
+  <li>SQLite</li>
+</ul>
 
-    <tr>
-      <td width="50%" valign="top">
+</div>
 
-        <h3>🗄️ Databases</h3>
-        <ul>
-          <li>MySQL / MariaDB</li>
-          <li>MongoDB</li>
-          <li>SQLite</li>
-        </ul>
+<div align="center">
 
-      </td>
+<h3>☁️ Cloud & Deployment</h3>
+<ul>
+  <li>Vercel</li>
+  <li>Netlify</li>
+  <li>Cloudflare</li>
+</ul>
 
-      <td width="50%" valign="top">
-
-        <h3>☁️ Cloud & Deployment</h3>
-        <ul>
-          <li>Vercel</li>
-          <li>Netlify</li>
-          <li>Cloudflare</li>
-        </ul>
-
-      </td>
-    </tr>
-  </table>
+</div>
 
 
 <hr>
