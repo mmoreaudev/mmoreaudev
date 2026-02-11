@@ -42,92 +42,77 @@ My objective is clear: <b>become a Security Engineer and design secure, scalable
 
 <hr>
 
-<h2>⚙️ Technical Expertise</h2>
+<h2>🛠️ Skills</h2>
 
 <div align="center">
 
-<h3>🔐 Systems & Infrastructure</h3>
-<ul>
-  <li>Linux / Windows Server</li>
-  <li>Apache / Nginx</li>
-  <li>Network Services</li>
-  <li>Infrastructure Management</li>
-  <li>Security Hardening</li>
-</ul>
-
+<div style="display: inline-block; text-align:left; margin: 10px; padding: 10px; border: 1px solid #444; border-radius: 10px;">
+  <h3>🔐 Systems & Security</h3>
+  <ul>
+    <li>Linux / Windows Server</li>
+    <li>Network services & infrastructure</li>
+    <li>Security hardening</li>
+    <li>Monitoring & troubleshooting</li>
+  </ul>
 </div>
 
-<div align="center">
-
-<h3>💻 Development</h3>
-<ul>
-  <li>JavaScript / PHP / Python</li>
-  <li>React / Vue / Angular</li>
-  <li>Node.js</li>
-  <li>React Native / Flutter</li>
-  <li>Electron</li>
-</ul>
-
+<div style="display: inline-block; text-align:left; margin: 10px; padding: 10px; border: 1px solid #444; border-radius: 10px;">
+  <h3>💻 Development</h3>
+  <ul>
+    <li>JavaScript / PHP / Python</li>
+    <li>React / Vue / Angular</li>
+    <li>Node.js</li>
+    <li>React Native / Flutter / Electron</li>
+  </ul>
 </div>
 
-<div align="center">
-
-<h3>🗄️ Databases</h3>
-<ul>
-  <li>MySQL / MariaDB</li>
-  <li>MongoDB</li>
-  <li>SQLite</li>
-</ul>
-
+<div style="display: inline-block; text-align:left; margin: 10px; padding: 10px; border: 1px solid #444; border-radius: 10px;">
+  <h3>🗄️ Databases</h3>
+  <ul>
+    <li>MySQL / MariaDB</li>
+    <li>MongoDB</li>
+    <li>SQLite</li>
+  </ul>
 </div>
 
-<div align="center">
-
-<h3>☁️ Cloud & Deployment</h3>
-<ul>
-  <li>Vercel</li>
-  <li>Netlify</li>
-  <li>Cloudflare</li>
-</ul>
-
+<div style="display: inline-block; text-align:left; margin: 10px; padding: 10px; border: 1px solid #444; border-radius: 10px;">
+  <h3>☁️ Deployment</h3>
+  <ul>
+    <li>Vercel / Netlify</li>
+    <li>Cloudflare</li>
+    <li>CI/CD basics</li>
+  </ul>
 </div>
 
+</div>
 
 <hr>
 
-<h2>📊 GitHub Analytics</h2>
+<h2>📊 GitHub Stats</h2>
 
 <div align="center">
-
   <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=mmoreaudev&show_icons=true&theme=dark" />
   <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mmoreaudev&layout=compact&theme=dark" />
-
 </div>
 
 <hr>
 
-<h2>🌍 Connect With Me</h2>
+<h2>🌐 Connect</h2>
 
 <div align="center">
-
   <a href="https://www.mateomoreau.com">
     <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge" />
   </a>
-
   <a href="https://stackoverflow.com/users/21203010">
     <img src="https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a>
-
   <a href="https://instagram.com/mrb.mateo">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-
 </div>
 
 <hr>
 
 <div align="center">
-  <p>
-    📩 <b>contact@mateomoreau.com</b>
-  </p>
+  <p>📩 <b>contact@mateomoreau.com</b></p>
 </div>
