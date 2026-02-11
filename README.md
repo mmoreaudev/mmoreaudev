@@ -29,11 +29,11 @@
 <br/>
 
 <!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> &nbsp;About Me
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
@@ -53,16 +53,17 @@
 
 > *I focus on systems, network infrastructure, and IT security. I continuously build personal projects to strengthen my technical and problem-solving skills.*
 
-<br clear="both"/>
+<br clear="both" />
 
 <!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
 ## 🛠️ &nbsp;Tech Stack
 
 <!-- ===== SYSTEMS & INFRASTRUCTURE ===== -->
+
 <h3>🔐 &nbsp;Systems & Infrastructure</h3>
 
 <p>
@@ -75,6 +76,7 @@
 </p>
 
 <!-- ===== LANGUAGES ===== -->
+
 <h3>💻 &nbsp;Languages</h3>
 
 <p>
@@ -86,6 +88,7 @@
 </p>
 
 <!-- ===== FRAMEWORKS & LIBRARIES ===== -->
+
 <h3>⚡ &nbsp;Frameworks & Libraries</h3>
 
 <p>
@@ -98,6 +101,7 @@
 </p>
 
 <!-- ===== MOBILE & DESKTOP ===== -->
+
 <h3>📱 &nbsp;Mobile & Desktop</h3>
 
 <p>
@@ -107,6 +111,7 @@
 </p>
 
 <!-- ===== DATABASES ===== -->
+
 <h3>🗄️ &nbsp;Databases</h3>
 
 <p>
@@ -117,6 +122,7 @@
 </p>
 
 <!-- ===== CLOUD & DEPLOYMENT ===== -->
+
 <h3>☁️ &nbsp;Cloud & Deployment</h3>
 
 <p>
@@ -130,7 +136,7 @@
 <br/>
 
 <!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
@@ -165,7 +171,7 @@
 <br/>
 
 <!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
@@ -180,7 +186,7 @@
 <br/>
 
 <!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
@@ -188,15 +194,15 @@
 
 <div align="center">
 
-  <a href="https://www.mateomoreau.com" target="_blank">
+  <a href="https://www.mateomoreau.com">
     <img src="https://img.shields.io/badge/🌍_Website-mateomoreau.com-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Website" />
   </a>
   &nbsp;
-  <a href="https://stackoverflow.com/users/21203010" target="_blank">
+  <a href="https://stackoverflow.com/users/21203010">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/mrb.mateo" target="_blank">
+  <a href="https://instagram.com/mrb.mateo">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;
@@ -209,7 +215,7 @@
 <br/>
 
 <!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
@@ -217,11 +223,11 @@
 
 <div align="center">
 
-  <a href="https://paypal.me/mateomoreaw" target="_blank">
+  <a href="https://paypal.me/mateomoreaw">
     <img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.buymeacoffee.com/mmoreaudev" target="_blank">
+  <a href="https://www.buymeacoffee.com/mmoreaudev">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
   </a>
 
@@ -238,7 +244,7 @@
 <br/>
 
 <!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <div align="center">
 
