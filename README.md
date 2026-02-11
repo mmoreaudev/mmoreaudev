@@ -3,7 +3,11 @@
 
 <img src="https://cdn2.mateomoreau.com/images/LogoBanner-Dark.png">
 
-Hi! My name is Matéo Moreau. I am a Web Designer and am very passionate and dedicated to my work. With 3 years of experience as a Web Designer, I have acquired the skills and knowledge necessary to succeed in your project. I'm a young programming enthusiast currently in high school. I'm passionate about technology and especially programming. I started coding around 3 years ago and I did a few projects..<br><br>
+Passionate about IT security, I’m currently pursuing a work-study BTS SIO (SISR track), where I focus on systems and network administration. My goal is to become a security engineer.
+
+I’m particularly interested in cybersecurity, infrastructure management, and network services. I started coding independently three years ago and have since built several personal projects to strengthen my technical skills.
+
+Curious and motivated, I enjoy tackling new challenges, improving my knowledge, and building practical solutions through hands-on experience.<br><br>
 
 
 ## 🌐 Socials:
