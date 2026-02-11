@@ -44,7 +44,7 @@ My objective is clear: <b>become a Security Engineer and design secure, scalable
 
 <h2>⚙️ Technical Expertise</h2>
 
-<div align="center">
+
 
   <table width="100%">
     <tr>
@@ -100,7 +100,6 @@ My objective is clear: <b>become a Security Engineer and design secure, scalable
     </tr>
   </table>
 
-</div>
 
 <hr>
 
