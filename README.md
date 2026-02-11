@@ -12,7 +12,7 @@
 
   <!-- TYPING ANIMATION -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%94%90+Cybersecurity+%26+Systems+Administration;%F0%9F%8E%93+BTS+SIO+%E2%80%93+SISR+Track;%F0%9F%9A%80+Aspiring+Security+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=70&lines=%F0%9F%94%90+Cybersecurity+%26+Systems+Administration;%F0%9F%8E%93+BTS+SIO+%E2%80%93+SISR+Track;%F0%9F%9A%80+Aspiring+Security+Engineer" alt="Typing SVG" />
   </a>
 
   <br/>
