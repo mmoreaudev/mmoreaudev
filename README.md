@@ -227,17 +227,11 @@
     <img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.buymeacoffee.com/mmoreaudev">
+  <!--<a href="https://www.buymeacoffee.com/mmoreaudev">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
-  </a>
+  </a>-->
 
-  <br/><br/>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mmoreaudev/mmoreaudev/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mmoreaudev/mmoreaudev/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/mmoreaudev/mmoreaudev/output/github-snake-dark.svg" width="100%" />
-  </picture>
 
 </div>
 
